@@ -1,5 +1,5 @@
 # 👨‍💻 Portafolio Técnico | Eliseo Livingston
-**Estudiante Avanzado de Ingeniería Química | Análisis de Datos, Simulación y Diseño**
+**Estudiante Avanzado de Ingeniería Química | Análisis de Datos, Simulación y diseño de procesos**
 
 Bienvenido a mi portafolio. Aquí combino ingeniería de procesos, programación en Python y análisis de datos.
 
