@@ -9,5 +9,5 @@ Bienvenido a mi portafolio. Aquí combino ingeniería de procesos, programación
 * **[Proyecto Talento Tech | Análisis de Datos con python](https://github.com/eliseoDL/proyecto_ventas_talentotech)** — Análisis estructurado, modelado de bases de datos y visualización para toma de decisiones.
          *( [Ver reporte en vivo](https://proyectoventastalentotech-ldygxizooulqfukp2kxwxd.streamlit.app/) )*
 * **[Proyecto predicción de demanda y optimizan de producción | Análisis S&OP](https://github.com/eliseoDL/sop-dashboard-streamlit)** — Análisis/calculo de la demanda, optimización de la producción y visualización.
-         *( [Ver reporte en vivo](https://github.com/eliseoDL/sop-dashboard-streamlit/) )*
+         *( [Ver reporte en vivo](https://sop-dashboard-app-publrbxq8bvpmhdhb3d5lq.streamlit.app/) )*
 
